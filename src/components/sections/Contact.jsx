@@ -111,9 +111,9 @@ const Contact = () => {
     emailjs
       .sendForm(
         "service_1urncpn",
-        "template_bk7xssd",
+        "__ejs-test-mail-service__",
         form.current,
-        "6AZcxftxbcfzR0ZIQ"
+        "email_WqUgdnPgIPPP2reI9gZwbXWP"
       )
       .then(
         (result) => {
