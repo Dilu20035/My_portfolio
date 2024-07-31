@@ -183,7 +183,7 @@ export const projects = [
       "Express Js",
       "Redux",
     ],
-    category: "all",
+    category: "other",
     github: "https://github.com/rishavchanda/Trackify",
     webapp: "https://trackify-management.netlify.app/",
   },
@@ -236,7 +236,7 @@ export const projects = [
     image:
       "https://camo.githubusercontent.com/937774368308a82419f53dd6eeb4a8675780e119636488b4e3cfe5d34859a72a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
     tags: ["React Js", "API", "Axios", "Node JS"],
-    category: "all",
+    category: "other",
     github: "https://github.com/rishavchanda/Breaking-Bad",
     webapp: "https://breaking-bad-webapp.netlify.app",
   },
