@@ -127,7 +127,7 @@ export const skills = [
       {
         name: "Adobe XD",
         image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+          "https://i2.wp.com/flyclipart.com/thumb2/adobe-xd-icon-logo-template-for-free-download-492396.png",
       },
       {
         name: "Figma",
@@ -141,7 +141,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "http://www.risstechnologies.com/wp-content/uploads/2016/10/logo-retina.png",
+    img: "https://scontent.fcok15-1.fna.fbcdn.net/v/t39.30808-6/292493543_364044725854786_2629784419753154288_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=akfRb7zhg7AQ7kNvgHLCvtl&_nc_ht=scontent.fcok15-1.fna&gid=AncOtHSM_C2ZnbE0hf-w6dc&oh=00_AYC6gO4LrMZKkNA-IjAF--HaZPHDvs3ugpNp5SPx_h1VTA&oe=66B0E9EF",
     role: "MERN Stack Developer Intern",
     company: "Riss Technologies",
     date: "May 2024 - Aug 2024",
