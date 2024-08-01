@@ -114,10 +114,15 @@ export const skills = [
         image:
           "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
       },
-            {
+      {
+        name: "Streamlit",
+        image:
+          "https://vectorseek.com/wp-content/uploads/2023/08/Streamlit-Logo-Vector.svg-.png",
+      },
+      {
         name: "Vercel",
         image:
-          "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
+          "https://creazilla-store.fra1.digitaloceanspaces.com/icons/3205024/logo-vercel-icon-md.png",
       },
       {
         name: "Adobe XD",
