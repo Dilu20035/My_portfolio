@@ -141,11 +141,11 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-    role: "Frontend Engineer Intern",
-    company: "Neurobit",
-    date: "June 2023 - Nov 2023",
-    desc: "Enhanced user experiences on Neurobit PSG & Hybrid, Portals by resolving bugs & reduced load time by 40%. Built Neurobit Analytics portal using React Js with seamless interaction of REST APIs using AXIOS optimized with React Query. Refactored previous code to TypeScript, updated with new dependency and integrated Vite with Jest for Unit Testing.",
+    img: "http://www.risstechnologies.com/wp-content/uploads/2016/10/logo-retina.png",
+    role: "MERN Stack Developer Intern",
+    company: "Riss Technologies",
+    date: "May 2024 - Aug 2024",
+    desc: "Enhanced user experiences on Riss Technologies, Portals by resolving bugs & reduced load time by 40%. Built Stunning Ecommerce platform using React Js with seamless interaction of REST APIs using AXIOS optimized with React Query. Refactored previous code to TypeScript, updated with new dependency and integrated Vite with Jest for Unit Testing.",
     skills: [
       "ReactJS",
       "Redux",
@@ -155,19 +155,19 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
+    doc: "#",
   }
 ];
 
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://scontent.fcok15-1.fna.fbcdn.net/v/t39.30808-6/279572734_374279688049583_482048949868323895_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=SNHYhlSDzDcQ7kNvgGq_y_3&_nc_ht=scontent.fcok15-1.fna&oh=00_AYCP4BrEasLn7e_v-tU9agmnhNI0P-3YiWDW6la_flWwlg&oe=66B0EFA2",
     school: "Majlis Arts & Science College, Puramannur",
-    date: "Oct 2021 - Sep 2025",
+    date: "Oct 2021 - Mar 2024",
     grade: "5.292 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science at Majlis Arts & Science College, Puramannur. Now, I'm graduated from here with 5.292 CGPA. I have learned Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others in college syllabus. During the college, I could performed as a Student Ambassador role in our college community Stackhub, and also the member of IEDC, Kerala.",
+    degree: "Bachelor of Science - Computer Science",
   }
 ];
 
