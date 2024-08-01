@@ -75,12 +75,12 @@ export const skills = [
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlFFyY16N5NRhzoG24RqB7x8Ok2t8Bdgs-tuMsOBXS2Q&s",
       },
       {
-        name: "MongoDB",
+        name: "MongoDB (Database)",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
       {
-        name: "Firebase",
+        name: "Firebase (Database)",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
     ],
@@ -111,6 +111,11 @@ export const skills = [
       },
       {
         name: "Postman",
+        image:
+          "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
+      },
+            {
+        name: "Vercel",
         image:
           "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
       },
@@ -184,7 +189,7 @@ export const projects = [
       "Redux",
     ],
     category: "other",
-    github: "https://github.com/rishavchanda/Trackify",
+    github: "#",
     webapp: "https://trackify-management.netlify.app/",
   },
 
@@ -198,8 +203,8 @@ export const projects = [
       "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
     tags: ["React Native", "JavaScript", "Axios"],
     category: "fav",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
+    github: "#",
+    webapp: "#",
   },
   {
     id: 2,
@@ -211,7 +216,7 @@ export const projects = [
       "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
     tags: ["React Js", "Firebase", "Firestore", "Node JS"],
     category: "fav",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
+    github: "#",
     webapp: "https://whatsapp-clone-rishav.web.app",
   },
   {
@@ -224,7 +229,7 @@ export const projects = [
       "https://camo.githubusercontent.com/84ac6ab6f378348ef28d8184062b7e9e3511a1252ae3966eaa49e8e998f732a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
     category: "fav",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
+    github: "#",
     webapp: "https://rishav-react-todo.netlify.app/",
   },
   {
@@ -237,7 +242,7 @@ export const projects = [
       "https://camo.githubusercontent.com/937774368308a82419f53dd6eeb4a8675780e119636488b4e3cfe5d34859a72a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
     tags: ["React Js", "API", "Axios", "Node JS"],
     category: "other",
-    github: "https://github.com/rishavchanda/Breaking-Bad",
+    github: "#",
     webapp: "https://breaking-bad-webapp.netlify.app",
   },
 
